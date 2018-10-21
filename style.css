@@ -1,3 +1,41 @@
-table {
-    /* border-bottom: solid 1px #000; */
+body {
+    background: #fafafa;
+}
+
+.container {
+    /* background: #fff; */
+}
+
+.logo img {
+    margin: 10px;
+    padding: 5px auto;
+    width: 40px;
+}
+
+.carousel {
+    overflow: visible !important;
+}
+
+.img-1 {
+    background: url("https://indoorhoops.com/img/homepage/52a32791.jpg") center center no-repeat;
+}
+
+.carousel-h1 {
+    font-size: 130px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: prohibitionregular, Impact, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: -.01em;
+    font-weight: 400;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.img-2 {
+    background: url("https://indoorhoops.com/img/homepage/e421d090.jpg") center center no-repeat;
+}
+
+.calendar {
+    padding-bottom: 20px;
 }
